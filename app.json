@@ -1,0 +1,26 @@
+{
+  "name": "egyes",
+  "scripts": {
+  },
+  "env": {
+    "HEROKU_REDIS_AMBER_URL": {
+      "required": true
+    },
+    "HEROKU_REDIS_COBALT_URL": {
+      "required": true
+    },
+    "REDIS_URL": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+    "heroku-redis",
+    "heroku-redis",
+    "heroku-redis"
+  ],
+  "buildpacks": [
+
+  ]
+}
