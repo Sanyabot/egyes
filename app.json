@@ -3,13 +3,13 @@
   "scripts": {
   },
   "env": {
-    "HEROKU_REDIS_AMBER_URL": {
+    "HEROKU_REDIS_AMBER_URL": {www.soulmirrorplaybacktheatre.org
       "required": true
     },
-    "HEROKU_REDIS_COBALT_URL": {
+    "HEROKU_REDIS_COBALT_URL": {www.soulmirrorplaybacktheatre.org
       "required": true
     },
-    "REDIS_URL": {
+    "REDIS_URL": {www.soulmirrorplaybacktheatre.org
       "required": true
     }
   },
